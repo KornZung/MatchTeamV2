@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="14" height="5" tilewidth="40" tileheight="40" backgroundcolor="#ffffff" nextobjectid="19">
+ <tileset firstgid="1" name="BG" tilewidth="40" tileheight="40">
+  <image source="../data/background.jpg" width="2600" height="1600"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="14" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAMOEOxC4XmwMwCmeMKxG5UMA8bINadAEJjAiE=
+  </data>
+ </layer>
+ <objectgroup name="physics">
+  <object id="16" x="80" y="40" width="140" height="40"/>
+  <object id="17" x="260" y="80" width="200" height="40"/>
+  <object id="18" x="180" y="120">
+   <polygon points="0,0 -60,80 60,80 0,0"/>
+  </object>
+ </objectgroup>
+</map>

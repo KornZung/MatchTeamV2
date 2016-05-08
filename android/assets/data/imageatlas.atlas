@@ -1,0 +1,222 @@
+
+imageatlas.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btn_main_credit
+  rotate: false
+  xy: 642, 70
+  size: 186, 88
+  orig: 186, 88
+  offset: 0, 0
+  index: -1
+btn_main_play
+  rotate: false
+  xy: 828, 192
+  size: 186, 88
+  orig: 186, 88
+  offset: 0, 0
+  index: -1
+btn_menu_replay
+  rotate: false
+  xy: 846, 864
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+img_boundary_left
+  rotate: false
+  xy: 856, 282
+  size: 161, 10
+  orig: 161, 10
+  offset: 0, 0
+  index: -1
+img_boundary_right
+  rotate: false
+  xy: 830, 158
+  size: 161, 10
+  orig: 161, 10
+  offset: 0, 0
+  index: -1
+img_circle_01_
+  rotate: false
+  xy: 846, 754
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+img_game_small_bg
+  rotate: false
+  xy: 846, 742
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+img_game_time
+  rotate: false
+  xy: 830, 83
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+img_game_white_small_bg
+  rotate: false
+  xy: 956, 852
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+img_line
+  rotate: false
+  xy: 828, 170
+  size: 191, 20
+  orig: 191, 20
+  offset: 0, 0
+  index: -1
+img_loading_01_
+  rotate: false
+  xy: 856, 294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+img_main_smallbg
+  rotate: false
+  xy: 544, 115
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+img_model_smallbg
+  rotate: false
+  xy: 906, 546
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+img_obstruction_001_
+  rotate: false
+  xy: 544, 714
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+img_obstruction_002_
+  rotate: false
+  xy: 544, 446
+  size: 360, 110
+  orig: 360, 110
+  offset: 0, 0
+  index: -1
+img_obstruction_003_
+  rotate: false
+  xy: 544, 558
+  size: 411, 154
+  orig: 411, 154
+  offset: 0, 0
+  index: -1
+img_obstruction_003_1_
+  rotate: false
+  xy: 642, 160
+  size: 184, 128
+  orig: 184, 128
+  offset: 0, 0
+  index: -1
+img_obstruction_003_2_
+  rotate: false
+  xy: 642, 290
+  size: 212, 154
+  orig: 212, 154
+  offset: 0, 0
+  index: -1
+img_splash_bg
+  rotate: false
+  xy: 2, 54
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+img_splash_logo
+  rotate: false
+  xy: 544, 127
+  size: 96, 317
+  orig: 96, 317
+  offset: 0, 0
+  index: -1
+img_splash_smallbg
+  rotate: false
+  xy: 998, 1004
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+img_top_boundary
+  rotate: false
+  xy: 2, 2
+  size: 720, 50
+  orig: 720, 50
+  offset: 0, 0
+  index: -1
+
+imageatlas2.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ball1/img_circle
+  rotate: false
+  xy: 2, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+ball1/img_circle
+  rotate: false
+  xy: 2, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+ball1/img_circle
+  rotate: false
+  xy: 84, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+ball1/img_circle
+  rotate: false
+  xy: 2, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+ball1/img_circle
+  rotate: false
+  xy: 84, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+ball1/img_circle
+  rotate: false
+  xy: 166, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 6
+ball1/img_circle
+  rotate: false
+  xy: 84, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 7
+ball1/img_circle
+  rotate: false
+  xy: 166, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 8
